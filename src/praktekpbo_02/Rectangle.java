@@ -13,7 +13,7 @@ public class Rectangle {
     double panjang;
     double lebar;
     
-    cetakinfo() {
+    void cetakinfo() {
         System.out.println("========================");
         System.out.println("Panjang : "+panjang);
         System.out.println("Lebar   : "+lebar);
